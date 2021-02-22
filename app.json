@@ -26,7 +26,11 @@
       },
       "N8N_ENCRYPTION_KEY": {
         "description": "Random key used for encrypting the user credentials",
-        "value": "user"
+        "value": ""
+      },
+      "WEBHOOK_TUNNEL_URL": {
+       "description": "Url for the bot oauth and webhook callbacks",
+       "value": "https://n8n.example.com/"
       },
       "N8N_BASIC_AUTH_PASSWORD": {
         "description": "Basic Authentication Password to secure n8n.",
