@@ -24,6 +24,10 @@
         "description": "Basic Authentication User for n8n",
         "value": "user"
       },
+      "N8N_ENCRYPTION_KEY": {
+        "description": "Random key used for encrypting the user credentials",
+        "value": "user"
+      },
       "N8N_BASIC_AUTH_PASSWORD": {
         "description": "Basic Authentication Password to secure n8n.",
         "value": "pass"
